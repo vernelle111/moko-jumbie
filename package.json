@@ -1,0 +1,22 @@
+{
+  "name": "moko-jumbie",
+  "version": "1.0.0",
+  "description": "\"# moko-jumbie\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vernelle111/moko-jumbie.git"
+  },
+  "author": "Vernelle A. A. Noel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vernelle111/moko-jumbie/issues"
+  },
+  "homepage": "https://github.com/vernelle111/moko-jumbie#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
