@@ -18,5 +18,10 @@
   "homepage": "https://github.com/vernelle111/moko-jumbie#readme",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {},
+  "keywords": [
+    "Vernelle's",
+    "Apps"
+  ]
 }
